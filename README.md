@@ -9,7 +9,8 @@
 ###### ***The JustinAujla class is always evolving, join my journey as it gains new fields and methods!***
 
 ```csharp
-class JustinAujla {
+class JustinAujla
+{
   string bio =        "🌱 I'm a 2A Computer Engineering student at the University of Waterloo";
   string currently =  "💼 I'm currently the motor control lead at Waterloop ⚡";
   string previously = "🔭 I've previously interned at VirtaMove ☁, and Teranet 🌎";
