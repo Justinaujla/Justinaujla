@@ -15,7 +15,7 @@ class JustinAujla {
   string previously = "🔭 I've previously interned at VirtaMove ☁, and Teranet 🌎";
   string name =       "👨🏽‍💻 Justin Aujla";
   
-  public String ChatWithMe()
+  public void ChatWithMe()
   {
      System.Diagnostics.Process.Start("https://www.justinaujla.com");
   }
